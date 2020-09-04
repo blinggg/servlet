@@ -1,0 +1,28 @@
+@charset "UTF-8";
+#divPage{height:1000px}
+#main{background:white;width:1100px;height:490px;margin:auto}
+#bigMenu{background:white;width:960px;height:80px;margin:auto}
+#logo{width:50%}
+.bigMenus{text-align:right;padding-right:5px;}
+.aclass{text-decoration:none;color:#2569C9;font-weight:bolder}
+#divContent{width:100%;margin:auto}
+#content{width:100%;margin:auto}
+#banners{width:100%;text-align:center;height:394px}
+.banners{height:394px}
+#bannerDiv{width:100%;height:55px}
+#midMenu{background-color:white;width:954px;height:55px;border-top:1px solid;margin:auto}
+.aTag{text-decoration:none;color:#2569C9;font-weight:bolder}
+#container{background:white;width:100%;margin:auto;margin-top:40px;}
+#leftBro{float:left;height:440px;margin-left:-55px}
+#rightSis{float:right;height:440px;margin-right:-64px}
+#menuContainer{background-color:skyblue;width:818px;height:328px;margin:auto;border-collapse:collapse;border-style:none;}
+#menu1{background:#2761C1;width:25%;}
+#menu2{background:#C14327;width:25%;}
+#menu3{background:#3BA22F;width:25%;}
+#menu4{background:#828282;width:25%;}
+#menu1-1{background:#2F5697;color:white}
+#menu1-2{background:#843423;color:white}
+#menu1-3{background:#3A8530;color:white}
+#menu1-4{background:#535353;color:white}
+
+

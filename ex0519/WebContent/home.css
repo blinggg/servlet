@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{background:#D7BDE2;}
+#header, #footer {text-align:center;}
+#page {background:white;width:980px; box-shadow:10px 10px 10px #AF7AC5; margin:auto;padding:20px;}
+#center{overflow:hidden; border:1px dotted #76448A;}
+#menu{width:200px; float:left; padding:10px;}
+#content{width:720px; float:left; padding:0px 10px 30px 20px;border-left:1px dotted #76448A;}
+.item {height:30px;} 
+.item a{text-decoration:none; color:#2471A3;padding:5px;} 
+.item a:hover{color:white; background:#AED6F1;}
+table {border-collapse:collapse;} 
+td{border:1px solid black;height:10px;padding:5px;}
+#btnMenu{margin-top:5px;}
+.title{background:#D7BDE2;}
+.row:hover{color:white; background:#BB8FCE;cursor:pointer;}
+.number{text-align:right;}
+.center, .title{text-align:center;}
+select{height:23px;}
+search{margin-bottom:10px;height:20px;}

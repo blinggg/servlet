@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{background:gray;}
+#divPage{width:980px; background:white; box-shadow:10px 10px 10px blak; margin:auto;}
+#divTop{padding:30px 0px 0px 0px; text-align:center;}
+#divCenter{border:1px solid green; margin:0px 10px 0px 10px; padding-bottom:20px;}
+#divMenu{overflow:hidden; background:#EAEAEA; margin:0px 0px 20px 0px; padding:10px; border-bottom:1px solid green;}
+#divMenu .menuItem{width:80px;float:left;}
+#divContent{width:980px;}
+#divBottom{padding:0px 0px 10px 0px; text-align:center;}
+#divHeader{width:980px; text-align:center;}
+#divCondition{width:850px;overflow:hidden; margin:auto; margin-bottom:5px; background:#EAEAEA;padding:5px;border:1px solid gray;}
+#divSearch{ float:left; }
+#divSort{ float:right; }
+#pagination{width:980px; text-align:center;}
+.row .pcode, .row .pname, .row .hiredate, .row .dept, .row .ptitle{text-align:center;}
+.row .scode, .row .sname, .row .year, .row .birthday, .row .edate{text-align:center;}
+.row .lcode, .row .room, .row .hours, .row .capacity, .row .persons{text-align:center;}
+.row .salary, .row .grade{text-align:right;}
+a{text-decoration:none; color:green;font-size:13px;}
+a:hover{font-weight:bold;}
+select, input, button {height:21px; font-size:12px;}
+input[type="radio"]{height:12px;}
+table {border-collapse:collapse; margin:auto; margin-bottom:10px;}
+table .title{background:#EAEAEA; text-align:center;}
+table .row:hover{background:gray; color:white;}
+td{border:1px solid black; height:30px; font-size:12px;padding:0px 5px 0px 5px;}
+td button{text-align:center;}
+input[type="radio"]{height:12px;}
+input[name="yy"], input[name="mm"], input[name="dd"], #yy,#mm,#dd {text-align:center;}
+input[name="salary"], input[name="capacity"], input[name="persons"], input[name="hours"]{text-align:right;}
+#tbl, #ctbl, #stbl{width:850px;}

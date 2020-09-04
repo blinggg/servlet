@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;haksa&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jstl.jar&#x0D;&#x0A;     json-simple-1.1.1.jar&#x0D;&#x0A;     standard.jar" description="Copy files" element1="WebContent/WEB-INF/lib/jstl.jar" element2="WebContent/WEB-INF/lib/json-simple-1.1.1.jar" element3="WebContent/WEB-INF/lib/standard.jar" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1591641606848" target="/shop/WebContent/WEB-INF/lib" units="0" version="1.0"/>
+</session>
